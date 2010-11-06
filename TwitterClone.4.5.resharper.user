@@ -1,0 +1,418 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Views/d:Login/f:Index.aspx" caret="658" fromTop="10" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Views/d:Post/f:FormattedTweet.ascx" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Content/f:clonestyles.css" caret="5277" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Content/f:bundle.css" caret="70302" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Views/d:Post/f:Index.aspx" caret="4790" fromTop="27" />
+      <File id="31B8A0CD-8130-42A9-9328-D5FC5E731E68/d:Entity/f:PostTest.cs" caret="0" fromTop="0" />
+      <File id="31B8A0CD-8130-42A9-9328-D5FC5E731E68/d:Entity/f:UserTest.cs" caret="0" fromTop="0" />
+      <File id="31B8A0CD-8130-42A9-9328-D5FC5E731E68/d:Entity/f:UserToggleFollowingTest.cs" caret="0" fromTop="0" />
+      <File id="31B8A0CD-8130-42A9-9328-D5FC5E731E68/d:Entity/f:UserFilterPostCollectionTest.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Entity/f:Post.cs" caret="48" fromTop="1" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Entity/f:User.cs" caret="1286" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Controllers/f:UserController.cs" caret="1375" fromTop="37" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Controllers/f:PostController.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Controllers/f:LoginController.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:HttpSession/d:Interfaces/f:IHttpAuthenticator.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:HttpSession/f:HttpAuthenticator.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:HttpSession/f:CommonSessionManager.cs" caret="165" fromTop="6" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:ActionFilters/f:VerifyAuthentication.cs" caret="403" fromTop="11" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Mapping/f:UserMap.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Mapping/f:PostMap.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Repository/d:Interfaces/f:IHibernateRepository.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Repository/d:Interfaces/f:IUserRepository.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Repository/d:Interfaces/f:IPostRepository.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Repository/f:UserRepository.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Repository/f:PostRepository.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Repository/f:HibernateRepository.cs" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Scripts/f:clone.js" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Views/d:User/f:Details.aspx" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/f:Web.config" caret="0" fromTop="0" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/f:Global.asax.cs" caret="769" fromTop="27" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="31B8A0CD-8130-42A9-9328-D5FC5E731E68/d:Entity/f:UserTest.cs" caret="3397" fromTop="49" />
+      <File id="31B8A0CD-8130-42A9-9328-D5FC5E731E68/d:Entity/f:UserTest.cs" caret="2801" fromTop="35" />
+      <File id="31B8A0CD-8130-42A9-9328-D5FC5E731E68/d:Entity/f:UserTest.cs" caret="2701" fromTop="30" />
+      <File id="31B8A0CD-8130-42A9-9328-D5FC5E731E68/d:Entity/f:UserTest.cs" caret="2549" fromTop="25" />
+      <File id="31B8A0CD-8130-42A9-9328-D5FC5E731E68/d:Entity/f:UserTest.cs" caret="2994" fromTop="41" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Entity/f:User.cs" caret="842" fromTop="21" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Entity/f:User.cs" caret="1513" fromTop="14" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Entity/f:User.cs" caret="966" fromTop="6" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Entity/f:User.cs" caret="1286" fromTop="12" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:Controllers/f:UserController.cs" caret="1375" fromTop="37" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:HttpSession/f:CommonSessionManager.cs" caret="165" fromTop="6" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/d:ActionFilters/f:VerifyAuthentication.cs" caret="403" fromTop="11" />
+      <File id="271C1743-176B-4F96-9169-964DD9E8CADC/f:Global.asax.cs" caret="769" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="test" priority="13" />
+      <Item value="var" priority="72" />
+      <Item value="new" priority="52" />
+      <Item value="post" priority="18" />
+      <Item value="Post" priority="16" />
+      <Item value="public" priority="36" />
+      <Item value="void" priority="11" />
+      <Item value="Assert" priority="6" />
+      <Item value="Is" priority="7" />
+      <Item value="User" priority="36" />
+      <Item value="handle" priority="0" />
+      <Item value="string" priority="18" />
+      <Item value="firstName" priority="1" />
+      <Item value="lastName" priority="0" />
+      <Item value="List" priority="2" />
+      <Item value="posts" priority="2" />
+      <Item value="Title" priority="1" />
+      <Item value="Body" priority="5" />
+      <Item value="return" priority="26" />
+      <Item value="_posts" priority="1" />
+      <Item value="user" priority="26" />
+      <Item value="if" priority="11" />
+      <Item value="controller" priority="0" />
+      <Item value="FormCollectionWillHydratePost" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="ViewResult" priority="4" />
+      <Item value="FormCollection" priority="2" />
+      <Item value="private" priority="7" />
+      <Item value="collection" priority="7" />
+      <Item value="JsonRequestBehavior" priority="0" />
+      <Item value="result" priority="0" />
+      <Item value="title" priority="0" />
+      <Item value="body" priority="1" />
+      <Item value="Id" priority="5" />
+      <Item value="null" priority="2" />
+      <Item value="View" priority="7" />
+      <Item value="userId" priority="0" />
+      <Item value="createdPost" priority="0" />
+      <Item value="Direction" priority="0" />
+      <Item value="ParameterDirection" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="SqlConnection" priority="0" />
+      <Item value="connection" priority="1" />
+      <Item value="cmd" priority="4" />
+      <Item value="identityValue" priority="1" />
+      <Item value="PublishDate" priority="1" />
+      <Item value="Handle" priority="5" />
+      <Item value="FirstName" priority="4" />
+      <Item value="LastName" priority="2" />
+      <Item value="postRepository" priority="2" />
+      <Item value="this" priority="5" />
+      <Item value="IPostRepository" priority="0" />
+      <Item value="_postRepository" priority="2" />
+      <Item value="HttpDelete" priority="0" />
+      <Item value="userRepository" priority="4" />
+      <Item value="Html" priority="1" />
+      <Item value="ModelState" priority="1" />
+      <Item value="model" priority="0" />
+      <Item value="BrokenRules" priority="0" />
+      <Item value="BrokenRule" priority="0" />
+      <Item value="Message" priority="0" />
+      <Item value="PropertyName" priority="0" />
+      <Item value="bool" priority="3" />
+      <Item value="false" priority="0" />
+      <Item value="true" priority="3" />
+      <Item value="virtual" priority="11" />
+      <Item value="session" priority="0" />
+      <Item value="static" priority="1" />
+      <Item value="throw" priority="0" />
+      <Item value="Exception" priority="0" />
+      <Item value="item" priority="1" />
+      <Item value="_userRepository" priority="1" />
+      <Item value="x" priority="3" />
+      <Item value="Redirect" priority="0" />
+      <Item value="RedirectToRouteResult" priority="0" />
+      <Item value="filterContext" priority="4" />
+      <Item value="RedirectToAction" priority="1" />
+      <Item value="Response" priority="7" />
+      <Item value="HttpCookie" priority="0" />
+      <Item value="cookie" priority="5" />
+      <Item value="userid" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="HttpResponseBase" priority="1" />
+      <Item value="HttpContextBase" priority="0" />
+      <Item value="helper" priority="0" />
+      <Item value="else" priority="2" />
+      <Item value="ActionResult" priority="0" />
+      <Item value="response" priority="0" />
+      <Item value="CookieHelper" priority="0" />
+      <Item value="readonly" priority="2" />
+      <Item value="UserRepository" priority="2" />
+      <Item value="JsonResult" priority="2" />
+      <Item value="Json" priority="0" />
+      <Item value="PartialView" priority="0" />
+      <Item value="OutputCache" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="httpAuthenticator" priority="1" />
+      <Item value="_httpAuthenticator" priority="1" />
+      <Item value="HttpAuthenticator" priority="1" />
+      <Item value="ViewData" priority="3" />
+      <Item value="References" priority="0" />
+      <Item value="Following" priority="1" />
+      <Item value="following" priority="1" />
+      <Item value="followers" priority="0" />
+      <Item value="HasManyToMany" priority="0" />
+      <Item value="RouteTable" priority="0" />
+      <Item value="Request" priority="0" />
+      <Item value="refer" priority="0" />
+      <Item value="GetUpperBound" priority="0" />
+      <Item value="Uri" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="IsFollowing" priority="0" />
+      <Item value="AuthorizationContext" priority="0" />
+      <Item value="loggedInUser" priority="0" />
+      <Item value="loggedInUserId" priority="0" />
+      <Item value="TempData" priority="0" />
+      <Item value="isFollowing" priority="0" />
+      <Item value="Map" priority="1" />
+      <Item value="Model" priority="0" />
+      <Item value="IEnumerator" priority="0" />
+      <Item value="username" priority="1" />
+      <Item value="userz" priority="0" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="errors" priority="1" />
+      <Item value="PostedBy" priority="0" />
+      <Item value="postedBy" priority="0" />
+      <Item value="Has" priority="2" />
+      <Item value="Bio" priority="0" />
+      <Item value="Url" priority="0" />
+      <Item value="class" priority="1" />
+      <Item value="UserToggleFollowingTest" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="AddFollowing" priority="0" />
+      <Item value="AddFollower" priority="0" />
+      <Item value="userToFollow" priority="5" />
+      <Item value="firstPost" priority="1" />
+      <Item value="nextPost" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="EqualTo" priority="5" />
+      <Item value="SameAs" priority="0" />
+      <Item value="True" priority="1" />
+      <Item value="False" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add" priority="4" />
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterClone.Test.Entity.User">
+      <Item value="AddPost" priority="0" />
+      <Item value="Posts" priority="0" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.FormCollection">
+      <Item value="Add" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewResult">
+      <Item value="ViewData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewDataDictionary">
+      <Item value="Model" priority="0" />
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterClone.Test.Entity.Post">
+      <Item value="Title" priority="2" />
+      <Item value="Body" priority="2" />
+      <Item value="User" priority="1" />
+      <Item value="Id" priority="1" />
+      <Item value="PublishDate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.ParameterDirection">
+      <Item value="Output" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="CreateCommand" priority="0" />
+      <Item value="Open" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="Parameters" priority="0" />
+      <Item value="CommandText" priority="0" />
+      <Item value="Connection" priority="1" />
+      <Item value="ExecuteNonQuery" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameterCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameter">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterClone.Entity.Post">
+      <Item value="Id" priority="1" />
+      <Item value="Body" priority="2" />
+      <Item value="User" priority="0" />
+      <Item value="HasValidLength" priority="1" />
+      <Item value="PublishDate" priority="0" />
+      <Item value="PostedBy" priority="7" />
+      <Item value="Errors" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterClone.Entity.User">
+      <Item value="Id" priority="3" />
+      <Item value="Handle" priority="11" />
+      <Item value="FirstName" priority="1" />
+      <Item value="LastName" priority="1" />
+      <Item value="Posts" priority="4" />
+      <Item value="AddPost" priority="3" />
+      <Item value="FullName" priority="6" />
+      <Item value="Followers" priority="2" />
+      <Item value="AddFollower" priority="0" />
+      <Item value="Following" priority="3" />
+      <Item value="AddFollowing" priority="0" />
+      <Item value="IsFollowing" priority="1" />
+      <Item value="Url" priority="1" />
+      <Item value="GetPostCollectionForFollowers" priority="0" />
+      <Item value="Bio" priority="0" />
+      <Item value="ToggleFollowing" priority="1" />
+      <Item value="FilterPostCollectionToDisplayFollowersOnly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterClone.Repository.Interfaces.IPostRepository">
+      <Item value="SavePost" priority="0" />
+      <Item value="GetPostCollection" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterClone.Repository.UserRepository">
+      <Item value="GetUserById" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="Hidden" priority="0" />
+      <Item value="Encode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Aggregate" priority="0" />
+      <Item value="Where" priority="3" />
+      <Item value="FirstOrDefault" priority="2" />
+      <Item value="Contains" priority="1" />
+      <Item value="ToString" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="0" />
+      <Item value="Split" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="0" />
+      <Item value="Contains" priority="0" />
+      <Item value="Where" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="Transaction" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ITransaction">
+      <Item value="Rollback" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TwitterClone.HttpSession.CommonSessionManager">
+      <Item value="RollbackTransaction" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="ToList" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterClone.Repository.Interfaces.IUserRepository">
+      <Item value="GetUserCollection" priority="1" />
+      <Item value="GetUserById" priority="0" />
+      <Item value="GetUserByHandle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ActionExecutingContext">
+      <Item value="HttpContext" priority="4" />
+      <Item value="Result" priority="0" />
+      <Item value="Controller" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContextBase">
+      <Item value="Response" priority="1" />
+      <Item value="Request" priority="2" />
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponseBase">
+      <Item value="Redirect" priority="0" />
+      <Item value="Cookies" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpCookieCollection">
+      <Item value="Clear" priority="2" />
+      <Item value="Set" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequestBase">
+      <Item value="Cookies" priority="2" />
+      <Item value="UrlReferrer" priority="0" />
+      <Item value="Url" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpCookie">
+      <Item value="HasKeys" priority="0" />
+      <Item value="Values" priority="3" />
+      <Item value="Expires" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty" priority="3" />
+      <Item value="Empty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="AddDays" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterClone.HttpSession.CookieHelper">
+      <Item value="VerifyAuthenticationTokenExists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TwitterClone.HttpSession.CookieHelper">
+      <Item value="SetUserAuthenticationToken" priority="0" />
+      <Item value="ClearAuthenticationToken" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterClone.ActionFilters.VerifyAuthentication">
+      <Item value="_userRepository" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ControllerBase">
+      <Item value="ViewData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.ManyToOnePart`1">
+      <Item value="Not" priority="0" />
+      <Item value="Nullable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.ManyToManyPart`1">
+      <Item value="LazyLoad" priority="0" />
+      <Item value="Inverse" priority="0" />
+      <Item value="Table" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Routing.RouteTable">
+      <Item value="Routes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterClone.Controllers.UserController">
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Has">
+      <Item value="Member" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterClone.Test.Entity.ShuntedUser">
+      <Item value="AddUserToFollowingCollection" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
